@@ -1,0 +1,12 @@
+public class Main {
+
+    
+    public static void main(String[] args) {
+       Persona persona1 = new Persona();
+       Persona persona2 = new Persona();
+       persona1.pregunta();
+       persona1.hablar();
+       persona1.orden();
+    }
+    
+} persona
