@@ -1,0 +1,42 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.poo.s3;
+
+/**
+ *
+ * @author LAB_1
+ */
+public class calculadora1{
+    int a;
+    int b;
+    //metodos con parametros
+    public void sum(){
+    System.out.println(a+b);
+    }
+    public void restr(){
+    System.out.println(a-b);
+    }
+    public void multi(){
+    System.out.println(a-b);
+    }
+    public void div(){
+    System.out.println(a/b);
+    }
+    
+    //metodos con valores de retorno
+    
+    public int suma(){
+    return a+b;
+    }
+    public int resta(){
+    return a-b;
+    }
+    public int multiplicacion(){
+    return a*b;
+    }
+    public int dividir(){
+    return a/b;
+    }
+}
