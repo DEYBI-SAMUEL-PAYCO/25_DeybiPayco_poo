@@ -1,0 +1,8 @@
+Animal objanimal1 = new Animal();
+        Animal objanimal2 = new Animal();
+        
+        objanimal1.preguntar();
+        objanimal1.datalle();
+        
+        objanimal2.preguntar();
+        objanimal2.datalle2(); animal

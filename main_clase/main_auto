@@ -1,0 +1,11 @@
+auto objauto1 = new auto();
+                auto objauto2 = new auto();
+                objauto1.marca="ferrari";
+                objauto1.color="rojo";
+                objauto1.Km =0 ;
+                objauto1.acelerar();
+                
+                objauto2.marca="tesla";
+                 objauto2.color="rojo";
+                objauto2.Km =1500 ;
+                objauto2.acelerar();
